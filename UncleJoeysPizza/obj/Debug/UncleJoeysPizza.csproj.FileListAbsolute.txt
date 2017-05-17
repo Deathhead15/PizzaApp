@@ -1,0 +1,9 @@
+c:\users\deck\documents\visual studio 2015\Projects\UncleJoeysPizza\UncleJoeysPizza\bin\Debug\UncleJoeysPizza.exe.config
+c:\users\deck\documents\visual studio 2015\Projects\UncleJoeysPizza\UncleJoeysPizza\bin\Debug\UncleJoeysPizza.exe
+c:\users\deck\documents\visual studio 2015\Projects\UncleJoeysPizza\UncleJoeysPizza\bin\Debug\UncleJoeysPizza.pdb
+c:\users\deck\documents\visual studio 2015\Projects\UncleJoeysPizza\UncleJoeysPizza\obj\Debug\UncleJoeysPizza.csprojResolveAssemblyReference.cache
+c:\users\deck\documents\visual studio 2015\Projects\UncleJoeysPizza\UncleJoeysPizza\obj\Debug\UncleJoeysPizza.Form1.resources
+c:\users\deck\documents\visual studio 2015\Projects\UncleJoeysPizza\UncleJoeysPizza\obj\Debug\UncleJoeysPizza.Properties.Resources.resources
+c:\users\deck\documents\visual studio 2015\Projects\UncleJoeysPizza\UncleJoeysPizza\obj\Debug\UncleJoeysPizza.csproj.GenerateResource.Cache
+c:\users\deck\documents\visual studio 2015\Projects\UncleJoeysPizza\UncleJoeysPizza\obj\Debug\UncleJoeysPizza.exe
+c:\users\deck\documents\visual studio 2015\Projects\UncleJoeysPizza\UncleJoeysPizza\obj\Debug\UncleJoeysPizza.pdb
